@@ -1,0 +1,1 @@
+i started this project for educational purposes, im trying to learn html and css.
