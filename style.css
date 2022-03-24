@@ -12,7 +12,7 @@ body {
 }
 
     .gif-size img{
-        width: 120px;
+        width: 240px;
         height: auto;
     }
 
@@ -30,7 +30,7 @@ body {
     }
   
     .cont-table1 img {
-        width: 9.50%;
+        width: 8.75%;
     }
     /* PLACEHOLDER
     .cont-table2 {
@@ -39,6 +39,6 @@ body {
     }
 
     .cont-table2 img {
-        width: 9.50%;
+        width: 8.75%;
     }
     */
