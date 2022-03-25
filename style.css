@@ -33,6 +33,7 @@ body {
     }
   
     .imgs-table1 img {
+        border-radius: 10%;
         width: 9%;
     }
     
@@ -42,6 +43,11 @@ body {
     }
 
     .imgs-table2 img {
+        border-radius: 10%;
         width: 9%;
     }
+
+#endpage {
+    padding-top: 3%;
+}
 
