@@ -19,6 +19,12 @@ body {
     border-radius: 3px;
 }
 
+#navbar {
+    background-color: rgba(155, 0, 233, 0.131);
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
 #images {
     height: 105px;
     background-color: rgba(155, 0, 233, 0.131);
@@ -48,6 +54,6 @@ body {
     }
 
 #endpage {
-    padding-top: 3%;
+    padding-top: 38px;
 }
 
